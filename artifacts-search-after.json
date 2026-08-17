@@ -1,0 +1,102 @@
+{
+  "targetUrl": "http://127.0.0.1:1111/",
+  "mode": "after",
+  "artifactLanding": {
+    "index": 13,
+    "title": "Artifacts",
+    "description": "Store, version, and share filesystem artifacts across Workers, APIs, and Git-compatible tools.",
+    "href": "/artifacts/"
+  },
+  "results": [
+    {
+      "index": 1,
+      "title": "Workers binding",
+      "description": "Call Artifacts from a Worker binding.",
+      "href": "/artifacts/api/workers-binding/"
+    },
+    {
+      "index": 2,
+      "title": "Sandbox SDK + Artifacts",
+      "description": "Connect a sandbox to an Artifacts repo.",
+      "href": "/artifacts/examples/sandbox-sdk-artifacts/"
+    },
+    {
+      "index": 3,
+      "title": "How Artifacts works",
+      "description": "Understand namespaces, repos, and durability.",
+      "href": "/artifacts/concepts/how-artifacts-works/"
+    },
+    {
+      "index": 4,
+      "title": "REST API",
+      "description": "Manage Artifacts repos and tokens over HTTP.",
+      "href": "/artifacts/api/rest-api/"
+    },
+    {
+      "index": 5,
+      "title": "delete(name)",
+      "description": "Call Artifacts from a Worker binding.",
+      "href": "/artifacts/api/workers-binding/#deletename"
+    },
+    {
+      "index": 6,
+      "title": "Get a namespace",
+      "description": "Manage Artifacts repos and tokens over HTTP.",
+      "href": "/artifacts/api/rest-api/#get-a-namespace"
+    },
+    {
+      "index": 7,
+      "title": "Read a commit",
+      "description": "Manage Artifacts repos and tokens over HTTP.",
+      "href": "/artifacts/api/rest-api/#read-a-commit"
+    },
+    {
+      "index": 8,
+      "title": "Workers binding",
+      "description": "Call Artifacts from a Worker binding.",
+      "href": "/artifacts/api/workers-binding/"
+    },
+    {
+      "index": 9,
+      "title": "Read a file",
+      "description": "Manage Artifacts repos and tokens over HTTP.",
+      "href": "/artifacts/api/rest-api/#read-a-file"
+    },
+    {
+      "index": 10,
+      "title": "Guides",
+      "description": "Use Artifacts with the right auth and workflows.",
+      "href": "/artifacts/guides/"
+    },
+    {
+      "index": 11,
+      "title": "createToken(scope?, ttl?)",
+      "description": "Call Artifacts from a Worker binding.",
+      "href": "/artifacts/api/workers-binding/#createtokenscope-ttl"
+    },
+    {
+      "index": 12,
+      "title": "Observability",
+      "description": "Monitor Artifact usage with metrics.",
+      "href": "/artifacts/observability/"
+    },
+    {
+      "index": 13,
+      "title": "Artifacts",
+      "description": "Store, version, and share filesystem artifacts across Workers, APIs, and Git-compatible tools.",
+      "href": "/artifacts/"
+    },
+    {
+      "index": 14,
+      "title": "Concepts",
+      "description": "Learn how Artifacts works and how to use it effectively.",
+      "href": "/artifacts/concepts/"
+    },
+    {
+      "index": 15,
+      "title": "Changelog",
+      "description": "Review recent changes to Artifacts.",
+      "href": "/artifacts/platform/changelog/"
+    }
+  ]
+}
